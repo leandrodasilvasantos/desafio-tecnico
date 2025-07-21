@@ -1,0 +1,12 @@
+,ID_FUNDO,ST_CNPJ_FUNDO,ST_CLASSE_FUNDO,ST_ESTRATEGIA_FUNDO,ST_OBS_FUNDO,COD_QUANTUM_FUNDOMASTER,ST_CNPJ_FUNDOMASTER,ST_RELATORIO1_FUNDO,ST_RELATORIO2_FUNDO,ST_RELATORIO3_FUNDO,RELATORIOS
+0,583634,40.140.521/0001-69,RV Int'l USD,RV Asia USD,,583642,40.140.491/0001-90,RV Int'l USD,,,RV Int'l USD
+1,583642,40.140.491/0001-90,RV Int'l USD,RV Asia USD,,,,RV Int'l USD,,,RV Int'l USD
+2,459577,29.298.535/0001-72,MM Int'l,Asset Allocation - Int'l,Asset Allocation,,,MM Int'l,Multimercados,,MM Int'l;Multimercados
+3,573140,37.452.797/0001-78,Multimercados,Quant/Sist,,,,Multimercados,,,Multimercados
+4,499870,29.813.769/0001-00,Multimercados,LS/Arb,,396737,21.983.079/0001-98,Multimercados,,,Multimercados
+5,478806,30.797.371/0001-07,Multimercados,LS/Arb,,478784,30.797.392/0001-22,Multimercados,,,Multimercados
+6,478784,30.797.392/0001-22,Multimercados,LS/Arb,,,,Multimercados,,,Multimercados
+7,396737,21.983.079/0001-98,Multimercados,LS/Arb,,,,Multimercados,,,Multimercados
+8,396729,21.983.042/0001-60,Multimercados,LS/Arb,,396737,21.983.079/0001-98,Multimercados,,,Multimercados
+9,519782,35.617.938/0001-30,Multimercados,LS/Arb,,519774,35.618.088/0001-94,Multimercados,,,Multimercados
+10,519774,35.618.088/0001-94,Multimercados,LS/Arb,,,,Multimercados,,,Multimercados
