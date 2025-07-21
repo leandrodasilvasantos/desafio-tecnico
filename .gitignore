@@ -1,0 +1,1 @@
+# Python __pycache__/ *.pyc *.sqlite3 # Node node_modules/ .env dist/ build/ .vite/
