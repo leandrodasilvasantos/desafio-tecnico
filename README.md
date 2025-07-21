@@ -4,6 +4,11 @@
 
 O sistema implementa um formulário completo para cadastro e gerenciamento de fundos de investimento, utilizando as tecnologias da stack da empresa.
 
+### Interface do projeto
+
+<img width="1920" height="870" alt="image" src="https://github.com/user-attachments/assets/01f0bafa-4ef6-45e4-b554-cc5a33df44de" />
+
+
 ### Estrutura do Projeto
 
 ```
