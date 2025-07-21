@@ -41,15 +41,20 @@ outliers_challenge/
 1. **Clone o repositório:**
 ```bash
 git clone https://github.com/leandrodasilvasantos/desafio-tecnico.git
-cd outliers_challenge
+cd desafio-tecnico
 ```
 
 2. **Execute o ambiente completo:**
 ```bash
+docker-compose build --no-cache
 docker-compose up -d
 ```
+3. **Verificando status de database (db), backend e front end**
+```bash
+docker-compose ps
+```
 
-3. **Execute as migrações e carregue dados de exemplo:**
+4. **Execute as migrações e carregue dados de exemplo:**
 ```bash
 docker-compose exec backend python manage.py migrate
 docker-compose exec backend python manage.py load_sample_data
